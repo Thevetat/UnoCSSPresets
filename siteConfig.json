@@ -1,0 +1,12 @@
+{
+    "company": {
+        "theme": {
+            "primary": "#4a73c4",
+            "secondary": "#3a3a40",
+            "accent": "#F2AD45",
+            "bg": "#171212",
+            "text": "#d6d6d6",
+            "gradient": "#321717"
+        }
+    }
+}
